@@ -1,6 +1,6 @@
-<h2> Hello, there! I am Mario Lupo Ciaponi!</h2>
+<h2> Hello, there :smile: I am Mario Lupo Ciaponi!</h2>
 
-### A little more about me...  
+### A little more about me... :point_down:
 
 ```python
 mario = {
