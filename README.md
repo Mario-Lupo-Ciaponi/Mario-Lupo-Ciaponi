@@ -18,7 +18,7 @@
 
 - Build cool Python projects
 - Learn more about web development 
-- Learn Python ORM
+- Learn Python ORM ✅
 
 ### :mailbox: **Connect with Me**:
 
