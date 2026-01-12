@@ -24,20 +24,19 @@ I'm a passionate software engineering student at **SoftUni**, driven by curiosit
 ## What I'm Working On
 
 - 🔭 Currently developing Python projects to strengthen my programming fundamentals
-- 🌱 Expanding my knowledge in web development with Django
+- 🌱 Expanding my knowledge in web development with Rest and DRF
 - 🎯 Building a portfolio of meaningful projects that showcase my skills
 
-## 2025 Goals
+## 2026 Goals
 
 ```python
-class Goals2025:
+class Goals2026:
     def __init__(self):
         self.objectives = [
             "Build innovative Python projects", # In progress
-            "Master web development with Django", # In progress
-            "Deep dive into Python ORM", # Done
-            "Contribute to open-source projects",
-            "Launch my first production web application" # Done
+            "Learn ML and DL",
+            "Learn more algorithms",
+            "Launch a big RESTFul app",
         ]
     
     def achieve_goals(self):
